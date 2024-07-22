@@ -1,2 +1,2 @@
 # r-final_project
-Data analysis with R courser
+Data analysis with R coursera
